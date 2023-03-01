@@ -1,6 +1,6 @@
 {
-  "name": "ngx-text-diff-app",
-  "version": "0.0.0",
+  "name": "@alexis30/ngx-text-diff",
+  "version": "0.6.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
@@ -21,7 +21,7 @@
     "node": "12.16.2",
     "npm": "6.12.0"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^9.1.2",
     "@angular/cdk": "^9.2.1",
