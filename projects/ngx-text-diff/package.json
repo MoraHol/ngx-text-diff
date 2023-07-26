@@ -1,6 +1,6 @@
 {
   "name": "@alexis30/ngx-text-diff",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "description": "A Text Diff component for Angular.",
   "keywords": [
     "Angular",
@@ -25,6 +25,6 @@
     "@angular/core": ">=6.0.0",
     "@angular/forms": ">=6.0.0",
     "@angular/cdk": ">=6.0.0",
-    "rxjs": "~6.3.3"
+    "rxjs": "~6.5.5"
   }
 }
