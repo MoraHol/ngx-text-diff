@@ -1,6 +1,6 @@
 {
   "name": "@alexis30/ngx-text-diff",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "A Text Diff component for Angular.",
   "keywords": [
     "Angular",
