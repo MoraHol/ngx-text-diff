@@ -147,7 +147,6 @@
       }
     }
   },
-  "defaultProject": "ngx-text-diff-app",
   "cli": {
     "analytics": "c60ea4cf-6c9f-4242-8136-b69c1dea4ef6"
   }
