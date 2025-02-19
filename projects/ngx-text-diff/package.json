@@ -18,11 +18,11 @@
     "url": "https://github.com/MoraHol/ngx-text-diff.git"
   },
   "dependencies": {
-    "diff-match-patch": "^1.0.4",
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
     "@angular/common": ">=6.0.0",
+    "diff-match-patch": "^1.0.4",
     "@angular/core": ">=6.0.0",
     "@angular/forms": ">=6.0.0",
     "@angular/cdk": ">=6.0.0",
